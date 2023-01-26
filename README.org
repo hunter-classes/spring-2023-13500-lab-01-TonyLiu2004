@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 01
 
-* Last name: 
+* Last name: Liu
 
-* First name: 
+* First name: Tony
 
-* GitHub username: 
+* GitHub username: TonyLiu2004
 
 * Notes:
 
